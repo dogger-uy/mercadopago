@@ -1,2 +1,1 @@
-# mercadopago
-es provisorio, luego se integrará en la parte de listing y reservation.
+# card-payment-bricks-sample-python
